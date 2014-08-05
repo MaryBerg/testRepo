@@ -7,5 +7,5 @@ Created on Mon Aug  4 13:34:02 2014
 
 f = open ("numbers1.txt")
 lines = f.readlines()
-print lines
+print 
 f.close
